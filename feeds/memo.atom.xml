@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>M - Memo</title><link href="https://Akutaya.github.io/" rel="alternate"></link><link href="https://Akutaya.github.io/feeds/memo.atom.xml" rel="self"></link><id>https://Akutaya.github.io/</id><updated>2018-04-29T00:00:00+09:00</updated><entry><title>M</title><link href="https://Akutaya.github.io/first_post.html" rel="alternate"></link><published>2018-04-29T00:00:00+09:00</published><updated>2018-04-29T00:00:00+09:00</updated><author><name>AKutaya</name></author><id>tag:akutaya.github.io,2018-04-29:/first_post.html</id><summary type="html">&lt;p&gt;Test&lt;/p&gt;</summary><content type="html">&lt;p&gt;-List
+-List
+-List&lt;/p&gt;
+&lt;p&gt;'''Python
+print("Hello World")
+'''&lt;/p&gt;</content><category term="Pelican"></category><category term="Python"></category></entry></feed>
